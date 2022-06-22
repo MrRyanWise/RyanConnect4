@@ -1,4 +1,4 @@
 # RyanConnect4
 
 
-<img src="Connect_4.gif"/>
+<img src="Images/Connect_4.gif"/>
